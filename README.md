@@ -14,7 +14,14 @@ I am developing my data analysis skills to understand business performance, impr
 | Power BI | Intermediate |
 | SQL | Beginner: fundamentals |
 
-My GitHub repositories currently include Python learning exercises. I do not present them as evidence of an advanced Python skill level.
+## Python learning exercises
+
+These course-based exercises document my learning in data retrieval, cleaning, and visualization:
+
+- [Tesla and GameStop stock and revenue](https://github.com/sajadmuter/tesla-gamestop-stock-revenue): quarterly revenue cleaning and historical charts.
+- [Apple stock data exploration](https://github.com/sajadmuter/apple-stock-data-exploration): stock history retrieval and opening-price visualization.
+
+Both include offline checks using synthetic fixtures. Live-source retrieval has not been verified.
 
 ## Areas of interest
 
