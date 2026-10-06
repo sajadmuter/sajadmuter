@@ -1,62 +1,80 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Sajad Mutar Jasim — Business, Sales and Inventory Analytics. Storekeeper in telecom distribution, Iraq." />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Sajad Matar Jasim — Warehouse Keeper moving into Data Analytics and Indirect Sales" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sajadmutar/"><strong>Connect on LinkedIn ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="#-learning-projects"><strong>Explore my projects ↓</strong></a>
+  <strong>Inventory & Logistics Professional · Aspiring Data Analyst</strong><br />
+  Telecom Distribution · Business & Sales Analytics
 </p>
 
-## 👋 About me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sajadmutar/"><img src="./assets/linkedin.svg" alt="Connect on LinkedIn" /></a>
+</p>
 
-I work as a **storekeeper in telecom distribution in Iraq**, with around **three years of experience** in inventory management and goods movements. I hold a **Bachelor's degree in Business Administration**.
+## 👤 About
 
-I am developing my data analysis skills to connect operational experience with clearer **business, inventory, and sales reporting**, and prepare for future career opportunities.
+- 📦 Warehouse Keeper at **Next Generation Company**, the official Zain Iraq distributor in Misan, Iraq, with approximately **3 years of experience**.
+- 🧾 My work covers inventory management, stock movements and daily warehouse operations for telecom products.
+- 🎓 Bachelor's degree in **Business Administration — Misan University**.
+- 🎯 Developing my data analysis skills to support business, inventory and sales decisions, and prepare for opportunities in **Data Analytics** or **Indirect Sales Account Management**.
+- 📍 Misan, Iraq.
 
-## 🧰 Current skills
+## 🧰 Skills
+
+<img src="./assets/skills.svg" width="100%" alt="Excel: Advanced. Power BI: Intermediate. SQL: Beginner, learning the fundamentals." />
+
+<p align="center">
+  <img src="./assets/inventory.svg" alt="Inventory Management" />
+  <img src="./assets/stock-control.svg" alt="Stock Control" />
+  <img src="./assets/telecom.svg" alt="Telecom Distribution" />
+</p>
+
+**Current learning focus:** SQL fundamentals, Power BI reporting and translating business questions into useful analysis.
+
+## 🚀 Published Projects
+
+These repositories document my learning through financial data exercises.
+
+| Project | What it contains |
+| --- | --- |
+| [Tesla & GameStop Stock and Revenue](https://github.com/sajadmuter/tesla-gamestop-stock-revenue) | A Python notebook exercise for extracting, preparing and visualizing stock and revenue data. |
+| [Apple Stock Data Exploration](https://github.com/sajadmuter/apple-stock-data-exploration) | A notebook exercise for exploring Apple stock data. |
+| [Tesla & GameStop Data Extraction](https://github.com/sajadmuter/tesla-gamestop-data-extraction) | A related course exercise focused on data extraction and preparation. |
+
+See each repository's README for its scope, dependencies and data limitations.
+
+## 🛠️ Portfolio Roadmap
+
+The following are **planned case studies**. They are listed as goals until their files and documentation are published.
+
+| Planned project | Business question | Intended deliverables |
+| --- | --- | --- |
+| **Daily Inventory System** | How can daily receipts, issues and stock balances be tracked clearly? | Synthetic transactions, a reconciliation workflow, exception checks and a documented inventory report. |
+| **Power BI KPI Dashboard** | How can distribution managers monitor sales and inventory performance? | Synthetic sales data, documented KPI definitions, a Power BI report and dashboard screenshots. |
+
+**Data privacy:** My portfolio case studies will use synthetic data. Company records, customer details and confidential business information will not be published.
+
+## 💼 Experience
+
+**Warehouse Keeper / Storekeeper** · Next Generation Company · Misan, Iraq  
+Inventory control, stock movements and daily operations in telecom distribution.
+
+## 🎓 Education
+
+**Bachelor's degree in Business Administration** · Misan University
+
+## 🌐 Languages
+
+**Arabic:** Native · **English:** B1, improving
+
+## 📫 Contact
+
+Let's connect about inventory operations, business analytics and telecom distribution.
 
 <p>
-  <img src="assets/skills.svg" width="100%" alt="Microsoft Excel: Advanced. Power BI: Intermediate. SQL: Beginner, fundamentals." />
-</p>
-
-**Excel — Advanced** · **Power BI — Intermediate** · **SQL — Beginner fundamentals**
-
-## 🎯 Analytics interests
-
-| 📦 Inventory & operations | 📊 Sales & business |
-| :--- | :--- |
-| Stock movements and reconciliation | Sales performance and target tracking |
-| Inventory reporting and data quality | Telecom distribution and point-of-sale performance |
-
-## 🔎 Learning projects
-
-These **course-based Python exercises** document my learning in data retrieval, cleaning, and visualization.
-
-| Project | What it covers | Validation |
-| :--- | :--- | :--- |
-| [**Tesla & GameStop — Stock and Revenue**](https://github.com/sajadmuter/tesla-gamestop-stock-revenue) | Quarterly revenue cleaning, date handling, and historical charts | Offline checks with synthetic fixtures |
-| [**Apple — Stock Data Exploration**](https://github.com/sajadmuter/apple-stock-data-exploration) | Stock history retrieval, company information, and opening-price visualization | Offline checks with synthetic fixtures |
-
-> **Scope:** Live-source retrieval has not been verified. These are learning exercises; no market findings or employer business impact are claimed.
-
-## 🚧 Portfolio direction
-
-I am organizing my analytics work into documented case studies focused on **inventory, telecom distribution, and sales performance**.
-
-Each case study will explain the **business question → data preparation → analysis → findings → recommendations**, with clear sources and limitations. Business project links will be added after the files are published and the results are validated.
-
-## 🔐 Data & privacy
-
-For warehouse and telecom portfolio work, I use **synthetic data**. I do not publish employer records, customer information, or confidential commercial data. Public learning datasets are acknowledged in their repositories.
-
----
-
-<p align="center">
-  <strong>Arabic — Native</strong> &nbsp; · &nbsp; <strong>English — B1, improving</strong>
+  <a href="https://www.linkedin.com/in/sajadmutar/"><img src="./assets/linkedin.svg" alt="Connect with Sajad on LinkedIn" /></a>
 </p>
 
 <p align="center">
-  Interested in future opportunities in <strong>data analysis, business reporting, and sales analytics</strong>.<br/>
-  <a href="https://www.linkedin.com/in/sajadmutar/"><strong>LinkedIn · Sajad Mutar Jasim ↗</strong></a>
+  <img src="./assets/footer.svg" width="100%" alt="" />
 </p>
