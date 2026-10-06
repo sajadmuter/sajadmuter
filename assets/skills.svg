@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="170" viewBox="0 0 1280 170" role="img" aria-labelledby="title desc">
 <title id="title">Current technical skills</title><desc id="desc">Excel advanced, Power BI intermediate, SQL beginner fundamentals.</desc>
 <g font-family="Segoe UI, Arial, sans-serif">
-<rect x="0" width="410" height="164" rx="18" fill="#102A36"/><rect x="0" y="0" width="410" height="5" rx="2" fill="#2DD4BF"/>
-<text x="30" y="48" fill="#6EE7B7" font-size="17" letter-spacing="2">01 · SPREADSHEETS</text><text x="30" y="94" fill="#F8FAFC" font-size="31" font-weight="700">Microsoft Excel</text><text x="30" y="133" fill="#B9CFD8" font-size="23">Advanced</text>
-<rect x="435" width="410" height="164" rx="18" fill="#282839"/><rect x="435" width="410" height="5" rx="2" fill="#FBBF24"/>
-<text x="465" y="48" fill="#FDE68A" font-size="17" letter-spacing="2">02 · VISUAL REPORTING</text><text x="465" y="94" fill="#F8FAFC" font-size="31" font-weight="700">Power BI</text><text x="465" y="133" fill="#D4CDDB" font-size="23">Intermediate</text>
-<rect x="870" width="410" height="164" rx="18" fill="#142A48"/><rect x="870" width="410" height="5" rx="2" fill="#38BDF8"/>
-<text x="900" y="48" fill="#7DD3FC" font-size="17" letter-spacing="2">03 · DATABASE QUERIES</text><text x="900" y="94" fill="#F8FAFC" font-size="31" font-weight="700">SQL</text><text x="900" y="133" fill="#BED0E7" font-size="23">Beginner · Fundamentals</text>
+<rect x="0" width="410" height="164" rx="18" fill="#2A2B50"/><rect x="0" y="0" width="410" height="5" rx="2" fill="#8B6CF0"/>
+<text x="30" y="48" fill="#A78BFA" font-size="17" letter-spacing="2">01 · SPREADSHEETS</text><text x="30" y="94" fill="#F8FAFC" font-size="31" font-weight="700">Microsoft Excel</text><text x="30" y="133" fill="#DDD6FE" font-size="23">Advanced</text>
+<rect x="435" width="410" height="164" rx="18" fill="#2A2B50"/><rect x="435" width="410" height="5" rx="2" fill="#8B6CF0"/>
+<text x="465" y="48" fill="#A78BFA" font-size="17" letter-spacing="2">02 · VISUAL REPORTING</text><text x="465" y="94" fill="#F8FAFC" font-size="31" font-weight="700">Power BI</text><text x="465" y="133" fill="#DDD6FE" font-size="23">Intermediate</text>
+<rect x="870" width="410" height="164" rx="18" fill="#2A2B50"/><rect x="870" width="410" height="5" rx="2" fill="#8B6CF0"/>
+<text x="900" y="48" fill="#A78BFA" font-size="17" letter-spacing="2">03 · DATABASE QUERIES</text><text x="900" y="94" fill="#F8FAFC" font-size="31" font-weight="700">SQL</text><text x="900" y="133" fill="#DDD6FE" font-size="23">Beginner · Fundamentals</text>
 </g></svg>
