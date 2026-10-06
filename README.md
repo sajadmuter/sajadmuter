@@ -1,54 +1,62 @@
-# Sajad Mutar Jasim
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="Sajad Mutar Jasim — Business, Sales and Inventory Analytics. Storekeeper in telecom distribution, Iraq." />
+</p>
 
-**Storekeeper in telecom distribution | Developing business and sales analytics skills**
+<p align="center">
+  <a href="https://www.linkedin.com/in/sajadmutar/"><strong>Connect on LinkedIn ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="#-learning-projects"><strong>Explore my projects ↓</strong></a>
+</p>
 
-I work in telecom distribution in Iraq and have around three years of experience in inventory management and goods movements. I hold a Bachelor's degree in Business Administration.
+## 👋 About me
 
-I am developing my data analysis skills to understand business performance, improve inventory and sales reporting, and prepare for future career opportunities.
+I work as a **storekeeper in telecom distribution in Iraq**, with around **three years of experience** in inventory management and goods movements. I hold a **Bachelor's degree in Business Administration**.
 
-## Current skills
+I am developing my data analysis skills to connect operational experience with clearer **business, inventory, and sales reporting**, and prepare for future career opportunities.
 
-| Skill | Current level |
-| --- | --- |
-| Microsoft Excel | Advanced |
-| Power BI | Intermediate |
-| SQL | Beginner: fundamentals |
+## 🧰 Current skills
 
-## Python learning exercises
+<p>
+  <img src="assets/skills.svg" width="100%" alt="Microsoft Excel: Advanced. Power BI: Intermediate. SQL: Beginner, fundamentals." />
+</p>
 
-These course-based exercises document my learning in data retrieval, cleaning, and visualization:
+**Excel — Advanced** · **Power BI — Intermediate** · **SQL — Beginner fundamentals**
 
-- [Tesla and GameStop stock and revenue](https://github.com/sajadmuter/tesla-gamestop-stock-revenue): quarterly revenue cleaning and historical charts.
-- [Apple stock data exploration](https://github.com/sajadmuter/apple-stock-data-exploration): stock history retrieval and opening-price visualization.
+## 🎯 Analytics interests
 
-Both include offline checks using synthetic fixtures. Live-source retrieval has not been verified.
+| 📦 Inventory & operations | 📊 Sales & business |
+| :--- | :--- |
+| Stock movements and reconciliation | Sales performance and target tracking |
+| Inventory reporting and data quality | Telecom distribution and point-of-sale performance |
 
-## Areas of interest
+## 🔎 Learning projects
 
-- Inventory reconciliation and stock movement analysis
-- Sales performance and target tracking
-- Telecom distribution and point-of-sale performance
-- Data quality and practical business reporting
+These **course-based Python exercises** document my learning in data retrieval, cleaning, and visualization.
 
-## Portfolio development
+| Project | What it covers | Validation |
+| :--- | :--- | :--- |
+| [**Tesla & GameStop — Stock and Revenue**](https://github.com/sajadmuter/tesla-gamestop-stock-revenue) | Quarterly revenue cleaning, date handling, and historical charts | Offline checks with synthetic fixtures |
+| [**Apple — Stock Data Exploration**](https://github.com/sajadmuter/apple-stock-data-exploration) | Stock history retrieval, company information, and opening-price visualization | Offline checks with synthetic fixtures |
 
-I am organizing my analytics work into documented case studies. I will add project links here after publishing the files, explaining the data sources, and validating the results.
+> **Scope:** Live-source retrieval has not been verified. These are learning exercises; no market findings or employer business impact are claimed.
 
-My focus is to show the business question, analysis process, findings, limitations, and practical recommendations behind each project.
+## 🚧 Portfolio direction
 
-## Data privacy
+I am organizing my analytics work into documented case studies focused on **inventory, telecom distribution, and sales performance**.
 
-For telecom and warehouse portfolio projects, I use synthetic data. I do not publish employer records, customer information, or confidential commercial data.
+Each case study will explain the **business question → data preparation → analysis → findings → recommendations**, with clear sources and limitations. Business project links will be added after the files are published and the results are validated.
 
-Learning exercises may use external public datasets, with their sources acknowledged.
+## 🔐 Data & privacy
 
-## Languages
+For warehouse and telecom portfolio work, I use **synthetic data**. I do not publish employer records, customer information, or confidential commercial data. Public learning datasets are acknowledged in their repositories.
 
-- Arabic: native
-- English: B1, improving
+---
 
-## Contact
+<p align="center">
+  <strong>Arabic — Native</strong> &nbsp; · &nbsp; <strong>English — B1, improving</strong>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/sajadmutar/)
-
-I am interested in future opportunities involving data analysis, business reporting, and sales analytics.
+<p align="center">
+  Interested in future opportunities in <strong>data analysis, business reporting, and sales analytics</strong>.<br/>
+  <a href="https://www.linkedin.com/in/sajadmutar/"><strong>LinkedIn · Sajad Mutar Jasim ↗</strong></a>
+</p>
