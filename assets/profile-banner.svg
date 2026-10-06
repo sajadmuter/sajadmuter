@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">Sajad Mutar Jasim — Business, Sales and Inventory Analytics</title>
+<desc id="desc">Storekeeper in telecom distribution, developing practical data analysis skills. Navy, blue and teal professional profile banner.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1224"/><stop offset=".6" stop-color="#102A4C"/><stop offset="1" stop-color="#075E69"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#2DD4BF"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1280" height="400" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="400" rx="24" fill="url(#grid)"/>
+<circle cx="1190" cy="35" r="210" fill="#38BDF8" opacity=".055"/>
+<circle cx="1240" cy="390" r="270" fill="#2DD4BF" opacity=".04"/>
+<rect x="56" y="55" width="66" height="6" rx="3" fill="url(#accent)"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="56" y="106" fill="#7DD3FC" font-size="19" font-weight="600" letter-spacing="3">OPERATIONS EXPERIENCE · ANALYTICS DEVELOPMENT</text>
+<text x="56" y="175" fill="#F8FAFC" font-size="54" font-weight="700">Sajad Mutar Jasim</text>
+<text x="56" y="225" fill="#E2E8F0" font-size="27">Business, Sales &amp; Inventory Analytics</text>
+<text x="56" y="267" fill="#AFC5DB" font-size="21">Storekeeper in telecom distribution · Iraq</text>
+<g font-size="18" font-weight="600">
+<rect x="56" y="309" width="120" height="40" rx="20" fill="#38BDF8" fill-opacity=".14" stroke="#38BDF8" stroke-opacity=".4"/><text x="116" y="335" text-anchor="middle" fill="#BAE6FD">EXCEL</text>
+<rect x="190" y="309" width="145" height="40" rx="20" fill="#FBBF24" fill-opacity=".12" stroke="#FBBF24" stroke-opacity=".4"/><text x="262" y="335" text-anchor="middle" fill="#FDE68A">POWER BI</text>
+<rect x="349" y="309" width="100" height="40" rx="20" fill="#2DD4BF" fill-opacity=".12" stroke="#2DD4BF" stroke-opacity=".4"/><text x="399" y="335" text-anchor="middle" fill="#99F6E4">SQL</text>
+</g></g>
+<g transform="translate(920 104)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect width="260" height="206" rx="20" fill="#0B1224" fill-opacity=".3" stroke="#7DD3FC" stroke-opacity=".25"/>
+<path d="M30 48H105M30 66H76" stroke="#94A3B8" stroke-width="5" opacity=".5"/>
+<rect x="30" y="131" width="30" height="43" rx="5" fill="#38BDF8" fill-opacity=".5"/>
+<rect x="81" y="105" width="30" height="69" rx="5" fill="#38BDF8" fill-opacity=".7"/>
+<rect x="132" y="78" width="30" height="96" rx="5" fill="#2DD4BF" fill-opacity=".65"/>
+<rect x="183" y="55" width="30" height="119" rx="5" fill="#2DD4BF" fill-opacity=".8"/>
+<path d="M30 111L96 87L147 52L213 26" stroke="#BAE6FD" stroke-width="4"/>
+<circle cx="213" cy="26" r="5" fill="#BAE6FD" stroke="none"/>
+</g></svg>
